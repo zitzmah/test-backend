@@ -7,12 +7,12 @@
 | Blog App | {My Blog}|
 | Description | {I am building a full CRUD application that allows the users to write and post their own blog posts. The user can also post pictures and blog posts will be dated.} |
 | Developers | {Haley Zitzmann} |
-| Live Website | {} |
-| Repo | {} |
+| Live Website | {https://project-4-backend-ii.onrender.com} |
+| Repo | {https://github.com/zitzmah/Project-4-Backend-II} |
 
 ## User Stories
 
-List of stories users should experience when using your application.
+List of stories users should experience when using the application.
 
 - Users should be able to see the site on desktop and mobile
 - Users can create a new item
@@ -33,8 +33,6 @@ List of stories users should experience when using your application.
 | /auth/login | POST | logs in user and returns user JSON with JWT token | username and password must be included in body |
 
 ## Component Architecture
-
-You can use the [Mermaid Markdown Syntax](https://mermaid-js.github.io/mermaid/#/flowchart) to create a chart of how the parts of your frontend website relate to each other. Units should represent components of your page. The following is an example you may see in a Single Page Application like a React App.
 
 ```mermaid
 flowchart TD
